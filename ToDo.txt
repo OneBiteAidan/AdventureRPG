@@ -1,0 +1,15 @@
+To do:
+-Make a GUI that displays
+    /Health and Mana
+    /Money
+    /Event Log
+    /Monsters n shit
+    /Inventory
+    /Way to fast Travel
+
+#These will probably all be integrated into their own sections
+
+-Make Event Log
+-Make Traveling
+-Make Inventory System
+-Monsters
